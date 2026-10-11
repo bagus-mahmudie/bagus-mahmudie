@@ -9,7 +9,7 @@
 
 ---
 
-🌐 **[LinkedIn](https://linkedin.com)** | 📧 **[Email](mailto:your.email@example.com)** | 🌍 **Based in Jakarta, Indonesia**
+🌐 **[LinkedIn](https://www.linkedin.com/in/bagus-mahmudie/)** | 📧 **[Email](mailto:bagusmahmudie@gmail.com)** | 🌍 **Based in Jakarta, Indonesia**
 
 </div>
 
