@@ -4,7 +4,7 @@ Kumpulan proyek website dan aplikasi web, mulai dari company profile hingga apli
 
 Teknologi yang digunakan dalam proyek-proyek ini antara lain PHP, Laravel, Vue, Inertia.js, Eleventy, Tailwind CSS, dan MySQL.
 
-## Live projects
+## Website yang sudah dihosting
 
 | Proyek | Ringkasan | Website |
 | --- | --- | --- |
@@ -18,12 +18,14 @@ Teknologi yang digunakan dalam proyek-proyek ini antara lain PHP, Laravel, Vue, 
 | [Drubbix.id](https://github.com/bagus-mahmudie/drubbix) | Website Drubbix yang menampilkan layanan pengangkutan sampah, produk maggot, dan artikel pengelolaan sampah. | [Live](https://drubbix.id/) |
 | [PT Sentral Layanan Prima](https://github.com/bagus-mahmudie/pt-sentral-layanan-prima) | Website profil PT Sentral Layanan Prima dengan informasi layanan pengelolaan fasilitas dan tenaga kerja. | [Live](https://pt-slp.co.id/) |
 
-## Local projects
+## Aplikasi dan eksplorasi lokal
+
+Source code tersedia di GitHub. Proyek berikut belum memiliki demo publik dan dijalankan pada lingkungan lokal.
 
 | Proyek | Ringkasan | Status |
 | --- | --- | --- |
 | [Catkuji](https://github.com/bagus-mahmudie/catkuji) | Aplikasi Catkuji untuk katalog event kuji, pengundian hadiah, inventori, pembayaran, dan pengiriman. | Lokal |
-| [Project Management Dashboard](https://github.com/bagus-mahmudie/project-management-dashboard) | Aplikasi manajemen proyek dengan pembagian tugas, kolaborasi tim, kalender, dan laporan harian. | Lokal |
+| [Project Management](https://github.com/bagus-mahmudie/project-management) | Aplikasi manajemen proyek dengan pembagian tugas, kolaborasi tim, kalender, dan laporan harian. | Lokal |
 | [Auto Trust](https://github.com/bagus-mahmudie/auto-trust) | Aplikasi katalog jual beli dan sewa kendaraan dengan profil penjual serta percakapan antarpengguna. | Lokal |
 | [Lova Dating Site](https://github.com/bagus-mahmudie/lova-dating-site) | Aplikasi perkenalan dengan profil pengguna, pencarian, likes, dan percakapan. | Lokal |
 | [SPK Asrama Kalteng](https://github.com/bagus-mahmudie/spk-asrama-kalteng) | Sistem pendukung keputusan untuk seleksi asrama menggunakan metode Simple Additive Weighting (SAW). | Lokal |
