@@ -1,0 +1,135 @@
+[
+  {
+    "project": "uwais-pictures",
+    "source": "src/assets/img/logo-uwais.png",
+    "original": "assets/projects/originals/uwais-pictures.png",
+    "sha256": "3ae0d82e48ce1a68f9850d926294ccc6387f0446e5ee57d9bb214068c5a0aced",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "grand-ontama",
+    "source": "src/assets/img/favicon.webp",
+    "original": "assets/projects/originals/grand-ontama.webp",
+    "sha256": "a47e40d2b6875dd432a3e03508dd5b68f907eb5a7bd8629302b4136befd39e4b",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "grand-ontama-dashboard",
+    "source": "assets/img/favicon.jpg",
+    "original": "assets/projects/originals/grand-ontama-dashboard.jpg",
+    "sha256": "7230bdb58206e19cfcaac9ec71b5caf2c8af639bd33c3e6976eef5fdb80b5a80",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "eggine-studio",
+    "source": "src/assets/img/logo.png",
+    "original": "assets/projects/originals/eggine-studio.png",
+    "sha256": "0a4b7b663c3eee2b5fb64cb22a84894af41dbdd16321c8b4b8b2bc8f68a1570b",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "888living",
+    "source": "assets/img/favicon.png",
+    "original": "assets/projects/originals/888living.png",
+    "sha256": "119bdac52e9f72fcbcb8efb932a3fbc66015e70ca31c2eede948115f3a5b52ee",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "mitra-elang-bersatu",
+    "source": "src/assets/img/favicon-192.png",
+    "original": "assets/projects/originals/mitra-elang-bersatu.png",
+    "sha256": "9043b6838e3269b82970b35e4f3fe816c1f43883fc2179132e0b78469249a72a",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "nymgo",
+    "source": "assets/img/favicon.png",
+    "original": "assets/projects/originals/nymgo.png",
+    "sha256": "ecdecf603560ebd466078c06c5057db98dccbc80f623f203fe5c99c17a7488fa",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "drubbix",
+    "source": "assets/img/favicon.png",
+    "original": "assets/projects/originals/drubbix.png",
+    "sha256": "2211d52ba684026455290dd4053797d40b87ac790ef8e21bdfaa7f567aee0da1",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "pt-sentral-layanan-prima",
+    "source": "assets/img/SLP-icon.png",
+    "original": "assets/projects/originals/pt-sentral-layanan-prima.png",
+    "sha256": "6f9e39a223f60f67207d46e5e01ca35c5587ba11919e0926f528bc77b93c52be",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "catkuji",
+    "source": "public/images/logo-catkuji.png",
+    "original": "assets/projects/originals/catkuji.png",
+    "sha256": "3555db55d2050e8269638dfc2ad03879fa229edfd87cf60360d388401993689c",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "project-management",
+    "source": "resources/js/Components/ApplicationLogo.vue",
+    "original": "assets/projects/originals/project-management.svg",
+    "sha256": "c72f19605e81c56daa16e2165ba52dae4c54f164ce53e5ad138bc1c24f14bf93",
+    "note": "Existing Laravel starter SVG extracted from ApplicationLogo.vue; fixed red fill for readability. No custom project logo exists."
+  },
+  {
+    "project": "auto-trust",
+    "source": "public/assets/img/icons/logo-navbar.png",
+    "original": "assets/projects/originals/auto-trust.png",
+    "sha256": "4ed92ffb3d505c5fd9cb635cb5e19c46450668e17aed57740ee92babcf4a4033",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "lova-dating-site",
+    "source": "public/assets/img/favicon.png",
+    "original": "assets/projects/originals/lova-dating-site.png",
+    "sha256": "06210c046c0286b3bef7e51c6ca863b10191d15c39ed02fa54a197f5638797f5",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "spk-asrama-kalteng",
+    "source": "assets/images/logo.png",
+    "original": "assets/projects/originals/spk-asrama-kalteng.png",
+    "sha256": "67d5726bc025c1ea9e908c6d7f9f4672f66167354808a7a28ec1f686306a4df0",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "refactory-redesign",
+    "source": "apple-touch-icon.png",
+    "original": "assets/projects/originals/refactory-redesign.png",
+    "sha256": "67ed679817e597b7acc4672e85bcd08a1da8095bc85adc5785ebe2f947f9f975",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "megah-abadi",
+    "source": "public/assets/img/favicon.png",
+    "original": "assets/projects/originals/megah-abadi.png",
+    "sha256": "c62d29b3f0bb910cbcab26f6e12cafbca3b8ecac1f844369495fce37144fa37b",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "sikd-uns",
+    "source": "public/images/favicon/logo_uns.png",
+    "original": "assets/projects/originals/sikd-uns.png",
+    "sha256": "4fcbb0f95133726056c2fc5e06f9b7fc126c847136955138f393b8503bcc55b8",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "dishub-uji-berkala",
+    "source": "favicon.png",
+    "original": "assets/projects/originals/dishub-uji-berkala.png",
+    "sha256": "6489fb127908ee454ea46bec5c5c073a587e97f04b554b76b211ef6cc6483921",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  },
+  {
+    "project": "grand-ontama-v1",
+    "source": "assets/img/favicon.webp",
+    "original": "assets/projects/originals/grand-ontama-v1.webp",
+    "sha256": "7997f4e1c575f8c78d5cd8b2992b391a557d86e7406f55cff229465ce0d5beff",
+    "note": "Original project image copied without changing its pixels. SVG wrapper provides consistent sizing and background."
+  }
+]
