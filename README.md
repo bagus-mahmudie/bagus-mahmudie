@@ -23,11 +23,6 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" title="Vite" />&nbsp;
 </p>
 
-**Backend:** PHP, Laravel, MySQL<br />
-**Frontend:** Vue, Inertia.js, JavaScript, Blade, Alpine.js<br />
-**Websites & UI:** Eleventy, Nunjucks, Tailwind CSS, HTML, CSS<br />
-**Tools:** Git, GitHub, Composer, npm, Vite, Apache / XAMPP
-
 ## Portfolio
 
 **19 projects · 9 hosted websites · 10 local projects**
