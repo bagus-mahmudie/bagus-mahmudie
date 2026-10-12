@@ -1,4 +1,4 @@
-# Hi, I’m Bagus Mahmudie
+# Hi, I’m Bagus Mahmudie👋
 
 ### Full-Stack Web Developer
 
@@ -8,7 +8,7 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
 
 [LinkedIn](https://www.linkedin.com/in/bagus-mahmudie/) · [Email](mailto:bagusmahmudie@gmail.com) · [GitHub](https://github.com/bagus-mahmudie)
 
-## Skills
+## Tech Stack & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP" />&nbsp;
