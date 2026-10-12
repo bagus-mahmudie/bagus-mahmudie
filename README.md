@@ -43,7 +43,7 @@ Projects are grouped by deployment status and listed from newest to oldest withi
   <tr>
     <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/uwais-pictures"><img src="./assets/projects/originals/uwais-pictures.png" width="63" alt="Uwais Pictures icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/uwais-pictures">Uwais Pictures</a></strong><br />Film production website with a film catalogue, news, and Indonesian and English pages.</td>
-    <td><a href="https://uwaispictures.id/" target="_blank" rel="noopener noreferrer">Click Here</a></td>
+    <td><a href="https://uwaispictures.id/">Click Here</a></td>
   </tr>
   <tr>
     <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/grand-ontama"><img src="./assets/projects/originals/grand-ontama.webp" width="54" alt="Grand Ontama icon" /></a></td>
@@ -91,7 +91,7 @@ Projects are grouped by deployment status and listed from newest to oldest withi
 
 ### Local applications & design studies
 
-Source code is available on GitHub. Public demos are not available for these projects. Setup instructions are included in each repository.
+Source code is available on GitHub. Live demo are not available for these projects. Setup instructions are included in each repository.
 
 <table>
   <tr><th>Project</th><th>Overview</th><th>Links</th></tr>
