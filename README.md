@@ -10,11 +10,11 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
 ## Tech Stack & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next" title="Next" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" title="Laravel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next" title="Next" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" title="Vue" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="36" height="36" alt="inertiajs" title="inertiajs" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eleventy/eleventy-original.svg" width="36" height="36" alt="eleventy" title="eleventy" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />&nbsp;
