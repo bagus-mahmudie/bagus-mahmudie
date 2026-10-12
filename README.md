@@ -1,6 +1,6 @@
 # Hi👋, I’m Bagus Mahmudie
 
-I am a passionate **Full-Stack Web Developer** based in Jakarta, Indonesia. I specialize in bridging intricate backend logic with modern, fluid user interfaces. From high-converting corporate company profiles to complex administration dashboards, e-commerce networks, and structural decision support systems, I also build production-ready digital products tailored for business growth.
+I am a passionate **Full-Stack Web Developer** specializing in blending complex backend logic with modern, dynamic user interfaces. From high-converting corporate company profiles to complex administration dashboards, e-commerce networks, and structural decision support systems, I also develop ready-to-use digital products specifically designed to foster business growth.
 
 🌍 Available for global remote contracts and collaborative software engineering roles.<br />
 ⚡ Strong focus on performance optimization, responsive layouts, and clean architecture.
@@ -42,7 +42,7 @@ Projects are grouped by deployment status and listed from newest to oldest withi
   <tr><th>Project</th><th>Overview</th><th>Links</th></tr>
   <tr>
     <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/uwais-pictures"><img src="./assets/projects/originals/uwais-pictures.png" width="63" alt="Uwais Pictures icon" /></a></td>
-    <td><strong><a href="https://github.com/bagus-mahmudie/uwais-pictures">Uwais Pictures</a></strong><br />Film production website with a film catalogue, news, and Indonesian and English pages.</td>
+    <td><strong><a href="https://github.com/bagus-mahmudie/uwais-pictures">Uwais Pictures</a></strong><br />House production website with a film catalogue, news, and Indonesian and English pages.</td>
     <td><a href="https://uwaispictures.id/">Click Here</a></td>
   </tr>
   <tr>
