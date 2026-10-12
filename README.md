@@ -39,47 +39,47 @@ Projects are grouped by deployment status and listed from newest to oldest withi
 <table>
   <tr><th>Project</th><th>Overview</th><th>Links</th></tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/uwais-pictures"><img src="./assets/projects/originals/uwais-pictures.png" width="96" height="72" alt="Uwais Pictures icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/uwais-pictures"><img src="./assets/projects/originals/uwais-pictures.png" width="72" alt="Uwais Pictures icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/uwais-pictures">Uwais Pictures</a></strong><br />Film production website with a film catalogue, news, and Indonesian and English pages.<br /><sub>Eleventy · Nunjucks · Tailwind CSS · PHP</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/uwais-pictures">Source</a><br /><a href="https://uwaispictures.id/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/grand-ontama"><img src="./assets/projects/originals/grand-ontama.webp" width="96" height="72" alt="Grand Ontama icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/grand-ontama"><img src="./assets/projects/originals/grand-ontama.webp" width="72" alt="Grand Ontama icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/grand-ontama">Grand Ontama</a></strong><br />Residential property website with house types, facilities, articles, and responsive images.<br /><sub>Eleventy · Tailwind CSS · Sharp · PHP</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/grand-ontama">Source</a><br /><a href="https://grandontama.com/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/eggine-studio"><img src="./assets/projects/originals/eggine-studio.png" width="96" height="72" alt="Egginestudio icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/eggine-studio"><img src="./assets/projects/originals/eggine-studio.png" width="72" alt="Egginestudio icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/eggine-studio">Egginestudio</a></strong><br />Game studio website featuring games, studio information, and career opportunities.<br /><sub>Eleventy · Nunjucks · Tailwind CSS</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/eggine-studio">Source</a><br /><a href="https://egginestudio.com/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/888living"><img src="./assets/projects/originals/888living.png" width="96" height="72" alt="888Living icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/888living"><img src="./assets/projects/originals/888living.png" width="54" alt="888Living icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/888living">888Living</a></strong><br />Architecture, interior design, and renovation website with service and project showcases.<br /><sub>HTML · CSS · JavaScript · PHP</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/888living">Source</a><br /><a href="https://www.888living.id/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/mitra-elang-bersatu"><img src="./assets/projects/originals/mitra-elang-bersatu.png" width="96" height="72" alt="Mitra Elang Bersatu icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/mitra-elang-bersatu"><img src="./assets/projects/originals/mitra-elang-bersatu.png" width="54" alt="Mitra Elang Bersatu icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/mitra-elang-bersatu">Mitra Elang Bersatu</a></strong><br />Company website for recruitment, outsourcing, and human resource services.<br /><sub>Eleventy · Nunjucks · Tailwind CSS</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/mitra-elang-bersatu">Source</a><br /><a href="https://mitraelangbersatu.com/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/nymgo"><img src="./assets/projects/originals/nymgo.png" width="96" height="72" alt="Nymgo.id icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/nymgo"><img src="./assets/projects/originals/nymgo.png" width="54" alt="Nymgo.id icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/nymgo">Nymgo.id</a></strong><br />Landing page for international calling services and package information.<br /><sub>HTML · CSS · JavaScript</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/nymgo">Source</a><br /><a href="https://nymgo.id/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/grand-ontama-dashboard"><img src="./assets/projects/originals/grand-ontama-dashboard.jpg" width="96" height="72" alt="Grand Ontama Dashboard icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/grand-ontama-dashboard"><img src="./assets/projects/originals/grand-ontama.webp" width="54" alt="Grand Ontama Dashboard icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/grand-ontama-dashboard">Grand Ontama Dashboard</a></strong><br />Property administration dashboard for customers, agents, documents, and bookings.<br /><sub>PHP · MySQL · JavaScript</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/grand-ontama-dashboard">Source</a><br /><a href="https://grandontama.com/dashboard/login">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/drubbix"><img src="./assets/projects/originals/drubbix.png" width="96" height="72" alt="Drubbix.id icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/drubbix"><img src="./assets/projects/originals/drubbix.png" width="54" alt="Drubbix.id icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/drubbix">Drubbix.id</a></strong><br />Company website for waste collection, maggot products, and environmental articles.<br /><sub>HTML · CSS · JavaScript</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/drubbix">Source</a><br /><a href="https://drubbix.id/">Website</a></td>
   </tr>
   <tr>
-    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/pt-sentral-layanan-prima"><img src="./assets/projects/originals/pt-sentral-layanan-prima.png" width="96" height="72" alt="PT Sentral Layanan Prima icon" /></a></td>
+    <td align="center" width="110"><a href="https://github.com/bagus-mahmudie/pt-sentral-layanan-prima"><img src="./assets/projects/originals/pt-sentral-layanan-prima.png" width="54" alt="PT Sentral Layanan Prima icon" /></a></td>
     <td><strong><a href="https://github.com/bagus-mahmudie/pt-sentral-layanan-prima">PT Sentral Layanan Prima</a></strong><br />Company website covering outsourcing, recruitment, and facility management services.<br /><sub>HTML · CSS · JavaScript · PHP</sub></td>
     <td><a href="https://github.com/bagus-mahmudie/pt-sentral-layanan-prima">Source</a><br /><a href="https://pt-slp.co.id/">Website</a></td>
   </tr>
