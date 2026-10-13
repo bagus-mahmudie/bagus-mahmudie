@@ -38,8 +38,6 @@ I am a passionate **Full-Stack Web Developer** specializing in blending complex 
 
 <a href="http://www.github.com/bagus-mahmudie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagus-mahmudie&stroke=ffffff&background=0d1117&ring=4493f8&fire=4493f8&currStreakNum=ffffff&currStreakLabel=4493f8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
 ## Top Repositories
 <table width="100%" border="0">
   <tr>
