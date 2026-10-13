@@ -2,8 +2,8 @@
 
 I am a passionate **Full-Stack Web Developer** specializing in blending complex backend logic with modern, dynamic user interfaces. From high-converting corporate company profiles to complex administration dashboards, e-commerce networks, and structural decision support systems, I also develop ready-to-use digital products specifically designed to foster business growth.
 
-🌍 Available for global remote contracts and collaborative software engineering roles.<br />
-⚡ Strong focus on performance optimization, responsive layouts, and clean architecture.
+> 🌍 Available for global remote contracts and collaborative software engineering roles.<br />
+> ⚡ Strong focus on performance optimization, responsive layouts, and clean architecture.
 
 Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations.
 <br />
@@ -31,7 +31,6 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" title="Vite" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;
 </p>
-<br />
 
 ## Portfolio Website
 
@@ -39,17 +38,13 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
 <br />
 
 ## Badges
-<div width="100%" align="center">
 <a href="http://www.github.com/bagus-mahmudie"><img src="https://github-readme-stats.vercel.app/api?username=bagus-mahmudie&show_icons=true&hide=&count_private=true&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="bagus-mahmudie's GitHub stats" /></a>
 
 <a href="http://www.github.com/bagus-mahmudie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagus-mahmudie&stroke=ffffff&background=0d1117&ring=4493f8&fire=4493f8&currStreakNum=ffffff&currStreakLabel=4493f8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/bagus-mahmudie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-mahmudie&langs_count=10&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-
 ## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/bagus-mahmudie/uwais-pictures" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=uwais-pictures&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/bagus-mahmudie/catkuji" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=catkuji&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/bagus-mahmudie/uwais-pictures" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=uwais-pictures&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/bagus-mahmudie/catkuji" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=catkuji&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Get in touch
 
