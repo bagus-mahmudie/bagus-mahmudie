@@ -38,9 +38,23 @@ I am a passionate **Full-Stack Web Developer** specializing in blending complex 
 
 <a href="http://www.github.com/bagus-mahmudie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bagus-mahmudie&stroke=ffffff&background=0d1117&ring=4493f8&fire=4493f8&currStreakNum=ffffff&currStreakLabel=4493f8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/bagus-mahmudie/uwais-pictures" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=uwais-pictures&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/bagus-mahmudie/catkuji" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=catkuji&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+## Top Repositories
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/bagus-mahmudie/uwais-pictures">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=uwais-pictures&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/bagus-mahmudie/catkuji">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=bagus-mahmudie&repo=catkuji&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Get in touch
 
