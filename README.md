@@ -3,9 +3,8 @@
 I am a passionate **Full-Stack Web Developer** specializing in blending complex backend logic with modern, dynamic user interfaces. From high-converting corporate company profiles to complex administration dashboards, e-commerce networks, and structural decision support systems, I also develop ready-to-use digital products specifically designed to foster business growth.
 
 > 🌍 Available for global remote contracts and collaborative software engineering roles.<br />
-> ⚡ Strong focus on performance optimization, responsive layouts, and clean architecture.
-
-Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations.
+> ⚡ Strong focus on performance optimization, responsive layouts, and clean architecture.<br />
+> 🏡 Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations.
 <br />
 
 ## Tech Stack & Tools
