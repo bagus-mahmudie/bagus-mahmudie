@@ -31,6 +31,7 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" title="Vite" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;
 </p>
+<br />
 
 ## Portfolio Website
 
