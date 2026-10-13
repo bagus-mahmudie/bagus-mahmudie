@@ -7,7 +7,6 @@ I am a passionate **Full-Stack Web Developer** specializing in blending complex 
 
 Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations.
 <br />
-<br />
 
 ## Tech Stack & Tools
 
@@ -31,12 +30,10 @@ Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" title="Vite" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;
 </p>
-<br />
 
 ## Portfolio Website
 
 > [My Portfolio](https://bagus-mahmudie-portfolio.vercel.app/)
-<br />
 
 ## Badges
 <a href="http://www.github.com/bagus-mahmudie"><img src="https://github-readme-stats.vercel.app/api?username=bagus-mahmudie&show_icons=true&hide=&count_private=true&title_color=4493f8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="bagus-mahmudie's GitHub stats" /></a>
