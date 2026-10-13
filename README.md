@@ -5,7 +5,6 @@ I am a passionate **Full-Stack Web Developer** specializing in blending complex 
 > 🌍 Available for global remote contracts and collaborative software engineering roles.<br />
 > ⚡ Strong focus on performance optimization, responsive layouts, and clean architecture.<br />
 > 🏡 Based in **Jakarta, Indonesia**. Open to remote roles and project collaborations.
-<br />
 
 ## Tech Stack & Tools
 
